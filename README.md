@@ -8,5 +8,6 @@
   - [Barriers in IPv6 Deployment](https://thebinary.blog/blog/barriers-in-ipv6-deployment/)
 
 Have something to share? Reach out to me!
+
 [![Twitter Badge](https://img.shields.io/badge/-@rahulmkhj-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rahulmkhj)](https://twitter.com/rahulmkhj) [![Linkedin Badge](https://img.shields.io/badge/-rmakhija-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rmakhija/)](https://www.linkedin.com/in/rmakhija) [![Gmail Badge](https://img.shields.io/badge/-rahulmkhj-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahulmkhj@gmail.com)](mailto:rahulmkhj@gmail.com)
 
